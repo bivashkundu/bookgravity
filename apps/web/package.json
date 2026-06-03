@@ -9,15 +9,15 @@
     "start": "next start -p 14323",
     "lint": "wts lint",
     "prepare": "husky",
-    "postinstall": "yarn run prepare",
-    "eslint:fix": "npm run lint:fix",
+    "postinstall": "pnpm run prepare",
+    "eslint:fix": "pnpm run lint:fix",
     "type-check": "tsc --noEmit",
     "format": "wts format",
-    "pre-commit": "lint-staged && yarn run build",
+    "pre-commit": "lint-staged && pnpm run build",
     "lint:fix": "wts lint --fix",
     "migrate": "wts migrate",
     "format:fix": "wts format --fix",
-    "prettier:fix": "npm run format:fix",
+    "prettier:fix": "pnpm run format:fix",
     "check-types": "wts type-check"
   },
   "dependencies": {
@@ -69,11 +69,11 @@
   },
   "lint-staged": {
     "./*/**/*.{js,jsx,ts,tsx}": [
-      "npm run prettier:fix",
-      "npm run eslint:fix"
+      "pnpm run prettier:fix",
+      "pnpm run eslint:fix"
     ],
     "*.{json,md}": [
-      "npm run prettier:fix"
+      "pnpm run prettier:fix"
     ]
   },
   "husky": {
