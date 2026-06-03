@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/app/(auth)/login/page.tsx"],"sourcesContent":["const page = () => {\n  return <div>page</div>;\n};\n\nexport default page;\n"],"names":[],"mappings":"yOAAa,IACJ,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,UAAI"}

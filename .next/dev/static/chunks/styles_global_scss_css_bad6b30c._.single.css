@@ -1,0 +1,22 @@
+/* [project]/styles/global.scss.css [app-client] (css) */
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: #0000;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.cmn-gap {
+  padding: 80px 0;
+}
+
+/*# sourceMappingURL=styles_global_scss_css_bad6b30c._.single.css.map*/

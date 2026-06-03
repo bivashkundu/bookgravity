@@ -1,0 +1,2623 @@
+[00:00:01.530] Server  LOG      ✓ Ready in 1191ms
+[00:00:22.892] Server  LOG      ○ Compiling / ...
+[00:00:26.993] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:51.455] Server  LOG      ✓ Compiled in 0ms
+[00:01:40.969] Server  LOG      ✓ Compiled in 4ms
+[00:01:49.241] Server  LOG      ✓ Compiled in 5ms
+[00:02:05.357] Server  LOG      ✓ Compiled in 3ms
+[00:13:26.392] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:00.964] Server  LOG      ✓ Compiled in 5ms
+[00:32:50.330] Server  LOG      ✓ Compiled in 8ms
+[00:33:04.899] Server  LOG      ✓ Compiled in 30ms
+[00:33:07.811] Server  LOG      ✓ Compiled in 7ms
+[00:33:32.413] Server  LOG      ✓ Compiled in 5ms
+[00:33:37.351] Server  LOG      ✓ Compiled in 5ms
+[00:33:42.687] Server  LOG      ✓ Compiled in 5ms
+[00:33:49.164] Server  LOG      ✓ Compiled in 6ms
+[00:34:12.150] Server  LOG      ✓ Compiled in 6ms
+[00:34:15.158] Server  LOG      ✓ Compiled in 8ms
+[00:34:22.714] Server  LOG      ✓ Compiled in 5ms
+[00:34:32.490] Server  LOG      ✓ Compiled in 5ms
+[00:34:43.514] Server  LOG      ✓ Compiled in 5ms
+[00:34:49.410] Server  LOG      ✓ Compiled in 5ms
+[00:35:22.721] Server  LOG      ✓ Compiled in 4ms
+[00:35:22.846] Browser WARN    Image with src "/assets/images/mainlogo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:25.958] Server  LOG      ✓ Compiled in 4ms
+[00:35:26.042] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:35:26.042] Browser ERROR   Image is missing required "src" property: <img>
+[00:35:32.244] Server  LOG      ✓ Compiled in 7ms
+[00:35:34.460] Server  LOG      ✓ Compiled in 6ms
+[00:35:34.509] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:35:34.509] Browser ERROR   Image is missing required "src" property: <img>
+[00:36:03.079] Server  LOG      ✓ Compiled in 5ms
+[00:40:34.370] Server  LOG      ✓ Compiled in 7ms
+[00:40:54.624] Server  LOG      ✓ Compiled in 5ms
+[00:40:58.052] Server  LOG      ✓ Compiled in 6ms
+[00:41:03.105] Server  LOG      ✓ Compiled in 5ms
+[00:41:10.056] Server  LOG      ✓ Compiled in 16ms
+[00:46:44.982] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:46.307] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:46.904] Browser WARN    Image with src "/assets/images/mainlogo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:47.444] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:48.000] Browser WARN    Image with src "/assets/images/mainlogo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:48.408] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:49.338] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:50.195] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:50.690] Browser WARN    Image with src "/assets/images/mainlogo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:47:20.974] Server  LOG      ✓ Compiled in 13ms
+[00:47:21.109] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:47:22.778] Server  LOG      ✓ Compiled in 3ms
+[00:47:22.886] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:47:22.887] Browser ERROR   Image is missing required "src" property: <img>
+[00:47:34.637] Server  LOG      ✓ Compiled in 3ms
+[00:47:57.963] Server  LOG      ✓ Compiled in 5ms
+[00:48:10.978] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:12.134] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:49:06.209] Server  LOG      ✓ Compiled in 5ms
+[00:49:08.647] Server  LOG      ✓ Compiled in 5ms
+[00:49:10.213] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:34.398] Server  LOG      ✓ Compiled in 8ms
+[00:49:37.012] Server  LOG      ✓ Compiled in 3ms
+[00:49:54.701] Server  LOG      ✓ Compiled in 3ms
+[00:50:06.148] Server  LOG      ✓ Compiled in 17ms
+[00:50:07.815] Server  LOG      ✓ Compiled in 17ms
+[00:50:10.975] Server  LOG      ✓ Compiled in 15ms
+[00:50:13.634] Server  LOG      ✓ Compiled in 37ms
+[00:50:13.738] Browser ERROR   ./layout/Header/Header.tsx:116:7
+Parsing ecmascript source code failed
+  114 |         </Container>
+  115 |       </AppBar>
+> 116 |       <Box component='nav'>
+      |       ^
+  117 |         <Drawer variant='temporary' open={mobileOpen} onClose={handleDrawerToggle}>
+  118 |           {drawer}
+  119 |         </Drawer>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:50:15.744] Server  LOG      ✓ Compiled in 13ms
+[00:50:21.341] Server  LOG      ✓ Compiled in 8ms
+[00:50:28.983] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:28.151] Server  LOG      ✓ Compiled in 18ms
+[00:51:38.016] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:59.401] Server  LOG      ✓ Compiled in 17ms
+[00:52:59.442] Browser ERROR   {}
+[00:52:59.442] Browser ERROR   {}
+[00:53:13.197] Server  LOG      ✓ Compiled in 84ms
+[00:53:13.257] Browser ERROR   {}
+[00:53:20.614] Server  LOG      ✓ Compiled in 56ms
+[00:53:20.679] Browser ERROR   {}
+[00:53:23.794] Server  LOG      ✓ Compiled in 6ms
+[00:53:23.859] Browser ERROR   {}
+[00:53:27.134] Server  LOG      ✓ Compiled in 66ms
+[00:53:32.756] Server  LOG      ✓ Compiled in 4ms
+[00:53:39.837] Server  LOG      ✓ Compiled in 5ms
+[00:53:46.512] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:19.354] Server  LOG      ✓ Compiled in 13ms
+[00:54:21.624] Server  LOG      ✓ Compiled in 4ms
+[00:54:32.561] Server  LOG      ✓ Compiled in 5ms
+[00:54:52.873] Server  LOG      ✓ Compiled in 5ms
+[00:55:21.615] Server  LOG      ✓ Compiled in 4ms
+[00:55:24.508] Server  LOG      ✓ Compiled in 5ms
+[00:56:08.788] Server  ERROR    ⨯ ReferenceError: inter is not defined
+[00:56:08.805] Server  ERROR    ⨯ ReferenceError: inter is not defined
+[00:56:08.819] Server  ERROR    ⨯ ReferenceError: inter is not defined
+[00:56:08.831] Server  ERROR    ⨯ ReferenceError: inter is not defined
+[00:56:09.239] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:09.618] Browser ERROR   uncaughtError: ReferenceError: inter is not defined
+[00:56:15.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:24.505] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:04.178] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:57.146] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:58.528] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:28.234] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:30.773] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:01:30.414] Server  LOG      ✓ Compiled in 5ms
+[01:01:43.206] Server  LOG      ✓ Compiled in 4ms
+[01:02:33.881] Server  LOG      ✓ Compiled in 64ms
+[01:02:38.915] Server  LOG      ✓ Compiled in 6ms
+[01:03:14.487] Server  LOG      ✓ Compiled in 72ms
+[01:03:17.431] Server  LOG      ✓ Compiled in 6ms
+[01:04:58.044] Server  LOG      ✓ Compiled in 32ms
+[01:04:58.147] Browser ERROR   ./layout/Header/Header.tsx:3:1
+Export HeaderWrap doesn't exist in target module
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+The export HeaderWrap was not found in module [project]/styles/StyledComponents/HeaderWrapper.tsx [app-client] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:04:58.147] Browser ERROR   ./layout/Header/Header.tsx:3:1
+Export HeaderWrap doesn't exist in target module
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+The export HeaderWrap was not found in module [project]/styles/StyledComponents/HeaderWrapper.tsx [app-ssr] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:05:00.206] Browser ERROR   ./layout/Header/Header.tsx:3:1
+Export HeaderWrap doesn't exist in target module
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+The export HeaderWrap was not found in module [project]/styles/StyledComponents/HeaderWrapper.tsx [app-client] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:05:00.206] Browser ERROR   ./layout/Header/Header.tsx:3:1
+Export HeaderWrap doesn't exist in target module
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+The export HeaderWrap was not found in module [project]/styles/StyledComponents/HeaderWrapper.tsx [app-ssr] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:05:02.494] Browser ERROR   ./layout/Header/Header.tsx:3:1
+Export HeaderWrap doesn't exist in target module
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+The export HeaderWrap was not found in module [project]/styles/StyledComponents/HeaderWrapper.tsx [app-client] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:05:02.494] Browser ERROR   ./layout/Header/Header.tsx:3:1
+Export HeaderWrap doesn't exist in target module
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+The export HeaderWrap was not found in module [project]/styles/StyledComponents/HeaderWrapper.tsx [app-ssr] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:05:13.860] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.861] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.862] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.863] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.864] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.866] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.868] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.869] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.870] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.872] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.873] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.875] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.876] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.877] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.879] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.880] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.882] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.883] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.884] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.885] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.886] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.888] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.889] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.889] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.891] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.892] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.894] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.895] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.897] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.898] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.899] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.900] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.901] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.902] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.903] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.972] Server  ERROR    ⨯ ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:05:13.974] Server  LOG      ✓ Compiled in 51ms
+[01:05:14.075] Browser ERROR   ./layout/Header/Header.tsx:3:1
+Module not found: Can't resolve '@/styles/StyledComponents/HeaderWrapper'
+  1 | 'use client';
+  2 | import assest from '@/json/assest';
+> 3 | import { HeaderWrap } from '@/styles/StyledComponents/HeaderWrapper';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import InputFieldCommon from '@/ui/CommonInput/CommonInput';
+  5 | import SearchIcon from '@/ui/Icons/SearchIcon';
+  6 | import { Button, Container, Stack } from '@mui/material';
+
+Import map: aliased to relative './styles/StyledComponents/HeaderWrapper' inside of [project]/
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:05:19.197] Server  ERROR    ⨯ ReferenceError: HeaderWrap is not defined
+[01:05:19.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:20.480] Browser ERROR   {}
+[01:05:21.401] Server  LOG      ✓ Compiled in 42ms
+[01:05:24.299] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:31.392] Server  LOG      ✓ Compiled in 15ms
+[01:05:31.474] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true ju ju true ju
+[01:05:34.592] Server  LOG      ✓ Compiled in 7ms
+[01:05:34.655] Browser ERROR   React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element. justifyContent justifycontent
+[01:05:36.567] Server  LOG      ✓ Compiled in 37ms
+[01:07:47.742] Server  LOG      ✓ Compiled in 55ms
+[01:07:48.617] Browser ERROR   ./layout/Header/Header.tsx:12:8
+Ecmascript file had an error
+  10 | import * as React from 'react';
+  11 | import { HeaderWrap } from './HeaderWrap.styles';
+> 12 | import SearchIcon from '@mui/icons-material/Search';
+     |        ^^^^^^^^^^
+  13 |
+  14 | export default function Header() {
+  15 |   // const navItems = [
+
+the name `SearchIcon` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:07:57.591] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:27.023] Server  LOG      ✓ Compiled in 3ms
+[01:08:29.991] Server  LOG      ✓ Compiled in 3ms
+[01:08:32.311] Server  LOG      ✓ Compiled in 4ms
+[01:09:53.271] Server  LOG      ✓ Compiled in 4ms
+[01:09:55.422] Server  LOG      ✓ Compiled in 3ms
+[01:09:59.410] Server  LOG      ✓ Compiled in 4ms
+[01:47:04.462] Server  LOG      ✓ Compiled in 11ms
+[01:47:12.504] Server  LOG      ✓ Compiled in 16ms
+[01:47:12.607] Browser ERROR   ./mui-theme/_muiTheme.ts:137:25
+Parsing ecmascript source code failed
+  135 |           root: ({ ownerState }) => {
+  136 |             return {
+> 137 |               fontSize: ,
+      |                         ^
+  138 |               lineHeight: '1.3',
+  139 |               fontWeight: '600',
+  140 |               padding: isCustomPath ? CustomSpacing(15, 26) : '15px 26px',
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./mui-theme/_muiTheme.ts [Client Component Browser]
+    ./mui-theme/AppThemeProvider.tsx [Client Component Browser]
+    ./app/providers.tsx [Client Component Browser]
+    ./app/providers.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./mui-theme/_muiTheme.ts [Client Component SSR]
+    ./mui-theme/AppThemeProvider.tsx [Client Component SSR]
+    ./app/providers.tsx [Client Component SSR]
+    ./app/providers.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[01:47:15.507] Server  LOG      ✓ Compiled in 7ms
+[01:47:15.609] Browser ERROR   ./mui-theme/_muiTheme.ts:137:27
+Parsing ecmascript source code failed
+  135 |           root: ({ ownerState }) => {
+  136 |             return {
+> 137 |               fontSize: 16px,
+      |                           ^
+  138 |               lineHeight: '1.3',
+  139 |               fontWeight: '600',
+  140 |               padding: isCustomPath ? CustomSpacing(15, 26) : '15px 26px',
+
+Identifier cannot follow number
+
+Import traces:
+  Client Component Browser:
+    ./mui-theme/_muiTheme.ts [Client Component Browser]
+    ./mui-theme/AppThemeProvider.tsx [Client Component Browser]
+    ./app/providers.tsx [Client Component Browser]
+    ./app/providers.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./mui-theme/_muiTheme.ts [Client Component SSR]
+    ./mui-theme/AppThemeProvider.tsx [Client Component SSR]
+    ./app/providers.tsx [Client Component SSR]
+    ./app/providers.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[01:47:28.614] Server  LOG      ✓ Compiled in 65ms
+[01:47:40.058] Server  LOG      ✓ Compiled in 80ms
+[01:47:43.540] Server  LOG      ✓ Compiled in 56ms
+[01:47:45.402] Server  LOG      ✓ Compiled in 5ms
+[01:47:47.768] Server  LOG      ✓ Compiled in 38ms
+[01:47:53.011] Server  LOG      ✓ Compiled in 5ms
+[01:48:01.827] Server  LOG      ✓ Compiled in 95ms
+[01:48:14.771] Server  LOG      ✓ Compiled in 8ms
+[01:48:36.574] Server  LOG      ✓ Compiled in 9ms
+[01:48:39.473] Server  LOG      ✓ Compiled in 5ms
+[01:57:59.551] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:25.882] Server  LOG      ✓ Compiled in 7ms
+[01:58:33.013] Server  LOG      ✓ Compiled in 4ms
+[01:58:35.495] Server  LOG      ✓ Compiled in 3ms
+[01:58:47.118] Server  LOG      ✓ Compiled in 3ms
+[01:58:50.372] Server  LOG      ✓ Compiled in 5ms
+[01:58:51.487] Server  LOG      ✓ Compiled in 18ms
+[02:11:13.886] Server  LOG      ✓ Compiled in 6ms
+[02:11:17.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:11:51.665] Server  LOG      ✓ Compiled in 11ms
+[02:11:54.354] Server  LOG      ✓ Compiled in 9ms
+[02:11:54.457] Browser ERROR   ./layout/Header/Header.tsx:47:17
+Parsing ecmascript source code failed
+  45 |   return (
+  46 |     <Box></Box>
+> 47 |     <HeaderWrap component='nav' position='static' elevation={0}>
+     |                 ^^^^^^^^^
+  48 |       <Container fixed>
+  49 |         <Toolbar disableGutters>
+  50 |           <Link href='/' className='headerLogo'>
+
+Expected ',', got 'component'
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:11:56.888] Server  LOG      ✓ Compiled in 4ms
+[02:11:56.989] Browser ERROR   ./layout/Header/Header.tsx:66:1
+Parsing ecmascript source code failed
+  64 |     </HeaderWrap>
+  65 |   );
+> 66 | }
+     | ^
+  67 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:12:05.220] Server  LOG      ✓ Compiled in 6ms
+[02:12:10.553] Server  LOG      ✓ Compiled in 13ms
+[02:12:10.655] Browser ERROR   ./layout/Header/Header.tsx:46:22
+Parsing ecmascript source code failed
+  44 |
+  45 |   return (
+> 46 |     <Box component={}>
+     |                      ^
+  47 |       <HeaderWrap component='nav' position='static' elevation={0}>
+  48 |         <Container fixed>
+  49 |           <Toolbar disableGutters>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:12:10.655] Browser ERROR   ./layout/Header/Header.tsx:65:6
+Parsing ecmascript source code failed
+  63 |         <Toolbar />
+  64 |       </HeaderWrap>
+> 65 |     </Box>
+     |      ^^^^^
+  66 |   );
+  67 | }
+  68 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:12:15.041] Server  LOG      ✓ Compiled in 4ms
+[02:12:36.332] Server  LOG      ✓ Compiled in 16ms
+[02:12:50.703] Server  LOG      ✓ Compiled in 14ms
+[02:12:55.747] Server  LOG      ✓ Compiled in 4ms
+[02:12:58.719] Server  LOG      ✓ Compiled in 14ms
+[02:13:36.115] Server  LOG      ✓ Compiled in 9ms
+[02:13:36.218] Browser ERROR   ./layout/Header/HeaderWrap.styles.ts:17:1
+Parsing ecmascript source code failed
+  15 |
+  16 | export 
+> 17 |
+     | ^
+
+Unexpected eof
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/HeaderWrap.styles.ts [Client Component Browser]
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/HeaderWrap.styles.ts [Client Component SSR]
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:13:40.458] Browser ERROR   ./layout/Header/HeaderWrap.styles.ts:16:8
+Parsing ecmascript source code failed
+  14 | `;
+  15 |
+> 16 | export DownHeadr
+     |        ^^^^^^^^^
+  17 |
+
+Expected '{', got 'DownHeadr'
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/HeaderWrap.styles.ts [Client Component Browser]
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/HeaderWrap.styles.ts [Client Component SSR]
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:13:45.511] Browser ERROR   ./layout/Header/HeaderWrap.styles.ts:16:8
+Parsing ecmascript source code failed
+  14 | `;
+  15 |
+> 16 | export DownHeadr = 
+     |        ^^^^^^^^^
+  17 |
+
+Expected '{', got 'DownHeadr'
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/HeaderWrap.styles.ts [Client Component Browser]
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/HeaderWrap.styles.ts [Client Component SSR]
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:13:58.699] Server  LOG      ✓ Compiled in 5ms
+[02:13:59.198] Server  ERROR    ⨯ ReferenceError: Stack is not defined
+[02:13:59.453] Server  ERROR    ⨯ ReferenceError: Stack is not defined
+[02:13:59.864] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:14:00.587] Browser ERROR   {}
+[02:14:09.744] Server  LOG      ✓ Compiled in 17ms
+[02:14:09.847] Browser ERROR   ./layout/Header/Header.tsx:65:5
+Parsing ecmascript source code failed
+  63 |       </HeaderWrap>
+  64 |       <DownHeadr
+> 65 |     </Box>
+     |     ^
+  66 |   );
+  67 | }
+  68 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:09.847] Browser ERROR   ./layout/Header/Header.tsx:65:6
+Parsing ecmascript source code failed
+  63 |       </HeaderWrap>
+  64 |       <DownHeadr
+> 65 |     </Box>
+     |      ^^^^^
+  66 |   );
+  67 | }
+  68 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:11.861] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./layout/Header/Header.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:14:12.064] Server  ERROR    ⨯ ReferenceError: DownHeadr is not defined
+[02:14:12.417] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:14:14.303] Browser ERROR   {}
+[02:14:17.701] Server  LOG      ✓ Compiled in 4ms
+[02:14:21.474] Server  LOG      ✓ Compiled in 18ms
+[02:14:21.579] Browser ERROR   ./layout/Header/Header.tsx:64:48
+Parsing ecmascript source code failed
+  62 |         </Container>
+  63 |       </HeaderWrap>
+> 64 |       <DownHeadr direction='row' alignItems={}></DownHeadr>
+     |                                                ^
+  65 |     </Box>
+  66 |   );
+  67 | }
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:21.579] Browser ERROR   ./layout/Header/Header.tsx:64:49
+Parsing ecmascript source code failed
+  62 |         </Container>
+  63 |       </HeaderWrap>
+> 64 |       <DownHeadr direction='row' alignItems={}></DownHeadr>
+     |                                                 ^^^^^^^^^^^
+  65 |     </Box>
+  66 |   );
+  67 | }
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:28.108] Server  LOG      ✓ Compiled in 4ms
+[02:14:29.545] Server  LOG      ✓ Compiled in 4ms
+[02:14:39.784] Server  LOG      ✓ Compiled in 10ms
+[02:14:39.891] Browser ERROR   ./layout/Header/Header.tsx:67:9
+Parsing ecmascript source code failed
+  65 |         <List>
+  66 |           <Lis
+> 67 |         </List>
+     |         ^
+  68 |       </DownHeadr>
+  69 |     </Box>
+  70 |   );
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:39.891] Browser ERROR   ./layout/Header/Header.tsx:67:10
+Parsing ecmascript source code failed
+  65 |         <List>
+  66 |           <Lis
+> 67 |         </List>
+     |          ^^^^^^
+  68 |       </DownHeadr>
+  69 |     </Box>
+  70 |   );
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:43.024] Browser ERROR   ./layout/Header/Header.tsx:67:9
+Parsing ecmascript source code failed
+  65 |         <List>
+  66 |           <ListItem
+> 67 |         </List>
+     |         ^
+  68 |       </DownHeadr>
+  69 |     </Box>
+  70 |   );
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:43.024] Browser ERROR   ./layout/Header/Header.tsx:67:10
+Parsing ecmascript source code failed
+  65 |         <List>
+  66 |           <ListItem
+> 67 |         </List>
+     |          ^^^^^^
+  68 |       </DownHeadr>
+  69 |     </Box>
+  70 |   );
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:50.486] Server  LOG      ✓ Compiled in 20ms
+[02:14:50.588] Browser ERROR   ./layout/Header/Header.tsx:68:11
+Parsing ecmascript source code failed
+  66 |           <ListItem>
+  67 |             <Link
+> 68 |           </ListItem>
+     |           ^
+  69 |         </List>
+  70 |       </DownHeadr>
+  71 |     </Box>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:50.588] Browser ERROR   ./layout/Header/Header.tsx:68:12
+Parsing ecmascript source code failed
+  66 |           <ListItem>
+  67 |             <Link
+> 68 |           </ListItem>
+     |            ^^^^^^^^^^
+  69 |         </List>
+  70 |       </DownHeadr>
+  71 |     </Box>
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:55.871] Server  LOG      ✓ Compiled in 11ms
+[02:14:55.972] Browser ERROR   ./layout/Header/Header.tsx:67:27
+Parsing ecmascript source code failed
+  65 |         <List>
+  66 |           <ListItem>
+> 67 |             <Link href={}></Link>
+     |                           ^
+  68 |           </ListItem>
+  69 |         </List>
+  70 |       </DownHeadr>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:14:55.972] Browser ERROR   ./layout/Header/Header.tsx:67:28
+Parsing ecmascript source code failed
+  65 |         <List>
+  66 |           <ListItem>
+> 67 |             <Link href={}></Link>
+     |                            ^^^^^^
+  68 |           </ListItem>
+  69 |         </List>
+  70 |       </DownHeadr>
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:15:05.603] Server  LOG      ✓ Compiled in 15ms
+[02:15:10.722] Server  LOG      ✓ Compiled in 13ms
+[02:15:13.306] Server  LOG      ✓ Compiled in 15ms
+[02:15:30.632] Server  LOG      ✓ Compiled in 286ms
+[02:15:34.672] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:15:34.672] Browser ERROR   unhandledRejection: Error: Failed to load chunk /_next/static/chunks/%5Bturbopack%5D_browser_dev_hmr-client_hmr-client_ts_c8c997ce._.js from module [turbopack]/browser/dev/hmr-client/hmr-client.ts [app-client] (ecmascript, async loader)
+[02:15:34.672] Browser ERROR   uncaughtError: Error: Failed to load chunk /_next/static/chunks/node_modules_872e38cc._.js from module [project]/node_modules/next/dist/compiled/react-server-dom-turbopack/cjs/react-server-dom-turbopack-client.browser.development.js [app-client] (ecmascript)
+[02:15:38.172] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:15:55.107] Server  LOG      ✓ Compiled in 5ms
+[02:16:00.925] Server  LOG      ✓ Compiled in 15ms
+[02:16:02.437] Server  LOG      ✓ Compiled in 10ms
+[02:16:02.540] Browser ERROR   ./layout/Header/Header.tsx:73:19
+Parsing ecmascript source code failed
+  71 |           ))}
+  72 |         </List>
+> 73 |       </DownHeadr>
+     |                   ^
+> 74 |     </Box>
+     | ^^^^^
+  75 |   );
+  76 | }
+  77 |
+
+Expected '</', got 'jsx text (
+    )'
+
+Import traces:
+  Client Component Browser:
+    ./layout/Header/Header.tsx [Client Component Browser]
+    ./layout/wrapper/Wrapper.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./layout/Header/Header.tsx [Client Component SSR]
+    ./layout/wrapper/Wrapper.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:16:04.875] Server  LOG      ✓ Compiled in 7ms
+[02:16:15.161] Server  LOG      ✓ Compiled in 6ms
+[02:16:15.262] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true d d true d
+[02:16:18.821] Server  LOG      ✓ Compiled in 5ms
+[02:16:23.928] Server  LOG      ✓ Compiled in 7ms
+[02:16:26.742] Server  LOG      ✓ Compiled in 5ms
+[02:16:28.091] Server  LOG      ✓ Compiled in 166ms
+[02:16:44.904] Server  LOG      ✓ Compiled in 7ms
+[02:16:49.054] Server  LOG      ✓ Compiled in 4ms
+[02:17:56.943] Server  LOG      ✓ Compiled in 4ms
+[02:17:58.769] Server  LOG      ✓ Compiled in 3ms
+[02:18:09.792] Server  LOG      ✓ Compiled in 4ms
+[02:18:13.508] Server  LOG      ✓ Compiled in 4ms
+[02:18:17.763] Server  LOG      ✓ Compiled in 3ms
+[02:18:21.065] Server  LOG      ✓ Compiled in 3ms
+[02:18:24.434] Server  LOG      ✓ Compiled in 3ms
+[02:18:28.439] Server  LOG      ✓ Compiled in 4ms
+[02:18:30.904] Server  LOG      ✓ Compiled in 4ms
+[02:18:34.153] Server  LOG      ✓ Compiled in 3ms
+[02:18:36.309] Server  LOG      ✓ Compiled in 3ms
+[02:18:39.607] Server  LOG      ✓ Compiled in 3ms
+[02:18:54.779] Server  LOG      ✓ Compiled in 4ms
+[02:19:02.771] Server  LOG      ✓ Compiled in 5ms
+[02:19:05.719] Server  LOG      ✓ Compiled in 3ms
+[02:19:07.771] Server  LOG      ✓ Compiled in 3ms
+[02:19:14.578] Server  LOG      ✓ Compiled in 4ms
+[02:19:17.551] Server  LOG      ✓ Compiled in 3ms
+[02:19:29.211] Server  LOG      ✓ Compiled in 4ms
+[02:19:37.790] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:20:35.760] Server  LOG      ✓ Compiled in 3ms
+[02:20:59.479] Server  LOG      ✓ Compiled in 6ms
+[02:21:05.405] Server  LOG      ✓ Compiled in 3ms
+[02:21:35.488] Server  LOG      ✓ Compiled in 4ms
+[02:21:39.991] Server  LOG      ✓ Compiled in 3ms
+[02:23:17.808] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:23:54.300] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:24:05.344] Server  LOG      ✓ Compiled in 60ms
+[02:24:16.192] Server  LOG      ✓ Compiled in 4ms
+[02:24:18.134] Server  LOG      ✓ Compiled in 4ms
+[02:24:21.485] Server  LOG      ✓ Compiled in 3ms
+[02:24:22.842] Server  LOG      ✓ Compiled in 4ms
+[02:24:23.948] Server  LOG      ✓ Compiled in 3ms
+[02:24:28.014] Server  LOG      ✓ Compiled in 3ms
+[02:24:34.013] Server  LOG      ✓ Compiled in 3ms
+[02:24:35.325] Server  LOG      ✓ Compiled in 4ms
+[02:24:39.068] Server  LOG      ✓ Compiled in 3ms
+[02:24:42.444] Server  LOG      ✓ Compiled in 4ms
+[02:24:43.500] Server  LOG      ✓ Compiled in 4ms
+[02:24:45.555] Server  LOG      ✓ Compiled in 5ms
+[02:24:48.227] Server  LOG      ✓ Compiled in 3ms
+[02:25:01.620] Server  LOG      ✓ Compiled in 3ms
+[02:25:08.447] Server  LOG      ✓ Compiled in 5ms
+[02:25:10.982] Server  LOG      ✓ Compiled in 3ms
+[02:25:13.087] Server  LOG      ✓ Compiled in 3ms
+[02:25:20.561] Server  LOG      ✓ Compiled in 3ms
+[02:25:29.845] Server  LOG      ✓ Compiled in 3ms
+[02:25:31.270] Server  LOG      ✓ Compiled in 3ms
+[02:25:35.578] Server  LOG      ✓ Compiled in 3ms
+[02:25:36.744] Server  LOG      ✓ Compiled in 4ms
+[02:25:38.022] Server  LOG      ✓ Compiled in 3ms
+[02:26:03.765] Server  LOG      ✓ Compiled in 7ms
+[02:26:08.023] Server  LOG      ✓ Compiled in 5ms
+[02:26:14.950] Server  LOG      ✓ Compiled in 3ms
+[02:26:20.399] Server  LOG      ✓ Compiled in 3ms
+[02:26:28.704] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:26:51.147] Server  LOG      ✓ Compiled in 4ms
+[02:27:02.557] Server  LOG      ✓ Compiled in 4ms
+[02:27:50.231] Server  LOG      ✓ Compiled in 6ms
+[02:28:00.225] Server  LOG      ✓ Compiled in 4ms
+[02:28:04.512] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:29:25.441] Server  LOG      ✓ Compiled in 5ms
+[02:29:28.456] Server  LOG      ✓ Compiled in 3ms
+[02:29:34.082] Server  LOG      ✓ Compiled in 3ms
+[02:29:41.511] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:31:04.602] Server  LOG      ✓ Compiled in 600ms
+[02:31:04.805] Server  ERROR    ⨯ ReferenceError: fustat is not defined
+[02:31:04.912] Server  ERROR    ⨯ ReferenceError: fustat is not defined
+[02:31:04.925] Server  LOG      ✓ Compiled in 0ms
+[02:31:05.184] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:31:05.577] Browser ERROR   uncaughtError: ReferenceError: fustat is not defined
+[02:31:12.660] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[02:31:12.769] Server  LOG      ✓ Compiled in 6ms
+[02:31:13.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:31:32.486] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:32:09.726] Server  LOG      ✓ Compiled in 4ms
+[02:32:28.774] Server  LOG      ✓ Compiled in 4ms
+[02:32:33.349] Server  LOG      ✓ Compiled in 3ms
+[02:32:57.269] Server  LOG      ✓ Compiled in 4ms
+[02:33:00.365] Server  LOG      ✓ Compiled in 3ms
+[02:33:04.295] Server  LOG      ✓ Compiled in 3ms
+[02:33:08.933] Server  LOG      ✓ Compiled in 5ms
+[02:33:11.231] Server  LOG      ✓ Compiled in 4ms
+[02:33:12.764] Server  LOG      ✓ Compiled in 3ms
+[02:33:24.127] Server  LOG      ✓ Compiled in 18ms
+[02:33:26.213] Server  LOG      ✓ Compiled in 7ms
+[02:48:17.125] Server  LOG      ✓ Compiled in 9ms
+[02:48:19.237] Server  LOG      ✓ Compiled in 23ms
+[02:48:19.341] Browser ERROR   ./app/page.tsx:12:7
+Parsing ecmascript source code failed
+  10 |     <Wrapper>
+  11 |       <Box
+> 12 |       <Container fixed>
+     |       ^
+  13 |         <Typography variant='h1'>Recycle your tech, we'll pay you cash.</Typography>
+  14 |         <Typography variant='h2'>Recycle your tech, we'll pay you cash.</Typography>
+  15 |         <Typography variant='h3'>Recycle your tech, we'll pay you cash.</Typography>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:48:21.110] Browser ERROR   ./app/page.tsx:12:7
+Parsing ecmascript source code failed
+  10 |     <Wrapper>
+  11 |       <Box 
+> 12 |       <Container fixed>
+     |       ^
+  13 |         <Typography variant='h1'>Recycle your tech, we'll pay you cash.</Typography>
+  14 |         <Typography variant='h2'>Recycle your tech, we'll pay you cash.</Typography>
+  15 |         <Typography variant='h3'>Recycle your tech, we'll pay you cash.</Typography>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:48:23.527] Browser ERROR   ./app/page.tsx:12:7
+Parsing ecmascript source code failed
+  10 |     <Wrapper>
+  11 |       <Box component={}
+> 12 |       <Container fixed>
+     |       ^
+  13 |         <Typography variant='h1'>Recycle your tech, we'll pay you cash.</Typography>
+  14 |         <Typography variant='h2'>Recycle your tech, we'll pay you cash.</Typography>
+  15 |         <Typography variant='h3'>Recycle your tech, we'll pay you cash.</Typography>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:48:26.055] Browser ERROR   ./app/page.tsx:12:7
+Parsing ecmascript source code failed
+  10 |     <Wrapper>
+  11 |       <Box component=''
+> 12 |       <Container fixed>
+     |       ^
+  13 |         <Typography variant='h1'>Recycle your tech, we'll pay you cash.</Typography>
+  14 |         <Typography variant='h2'>Recycle your tech, we'll pay you cash.</Typography>
+  15 |         <Typography variant='h3'>Recycle your tech, we'll pay you cash.</Typography>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:48:27.965] Browser ERROR   ./app/page.tsx:12:7
+Parsing ecmascript source code failed
+  10 |     <Wrapper>
+  11 |       <Box component='nav'
+> 12 |       <Container fixed>
+     |       ^
+  13 |         <Typography variant='h1'>Recycle your tech, we'll pay you cash.</Typography>
+  14 |         <Typography variant='h2'>Recycle your tech, we'll pay you cash.</Typography>
+  15 |         <Typography variant='h3'>Recycle your tech, we'll pay you cash.</Typography>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:48:32.540] Server  LOG      ✓ Compiled in 10ms
+[02:48:32.636] Browser ERROR   {}
+[02:48:32.636] Browser ERROR   {}
+[02:48:33.777] Server  LOG      ✓ Compiled in 76ms
+[02:48:44.244] Server  LOG      ✓ Compiled in 25ms
+[02:48:52.840] Server  LOG      ✓ Compiled in 85ms
+[02:48:57.911] Server  LOG      ✓ Compiled in 6ms
+[02:52:15.297] Server  LOG      ✓ Compiled in 5ms
+[02:52:18.616] Server  LOG      ✓ Compiled in 3ms
+[02:52:35.639] Server  LOG      ✓ Compiled in 3ms
+[02:52:41.341] Server  LOG      ✓ Compiled in 3ms
+[02:52:47.028] Server  LOG      ✓ Compiled in 4ms
+[02:52:49.385] Server  LOG      ✓ Compiled in 3ms
+[02:52:51.457] Server  LOG      ✓ Compiled in 3ms
+[02:53:00.129] Server  LOG      ✓ Compiled in 3ms
+[02:53:33.225] Server  LOG      ✓ Compiled in 3ms
+[02:53:36.411] Server  LOG      ✓ Compiled in 11ms
+[02:53:36.514] Browser ERROR   ./components/HomeOther/Hero/HeroWrapper.styles.ts:4:58
+Parsing ecmascript source code failed
+  2 |
+  3 | export const HeroBanner = styled(Box)`
+> 4 |   background-color: ${({ theme }) => theme.palette.grey?.;
+    |                                                          ^
+  5 |   height: 350px;
+  6 | `;
+  7 | 
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Hero/HeroWrapper.styles.ts [Client Component Browser]
+    ./components/HomeOther/Hero/HeroSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Hero/HeroWrapper.styles.ts [Client Component SSR]
+    ./components/HomeOther/Hero/HeroSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:53:39.431] Browser ERROR   ./components/HomeOther/Hero/HeroWrapper.styles.ts:4:58
+Parsing ecmascript source code failed
+  2 |
+  3 | export const HeroBanner = styled(Box)`
+> 4 |   background-color: ${({ theme }) => theme.palette.grey?.};
+    |                                                          ^
+  5 |   height: 350px;
+  6 | `;
+  7 |
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Hero/HeroWrapper.styles.ts [Client Component Browser]
+    ./components/HomeOther/Hero/HeroSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Hero/HeroWrapper.styles.ts [Client Component SSR]
+    ./components/HomeOther/Hero/HeroSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:53:44.601] Server  LOG      ✓ Compiled in 6ms
+[02:53:44.703] Browser ERROR   ./components/HomeOther/Hero/HeroWrapper.styles.ts:4:58
+Parsing ecmascript source code failed
+  2 |
+  3 | export const HeroBanner = styled(Box)`
+> 4 |   background-color: ${({ theme }) => theme.palette.grey?.};
+    |                                                          ^
+  5 |   height: 350px;
+  6 | `;
+  7 |
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Hero/HeroWrapper.styles.ts [Client Component Browser]
+    ./components/HomeOther/Hero/HeroSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Hero/HeroWrapper.styles.ts [Client Component SSR]
+    ./components/HomeOther/Hero/HeroSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:53:46.681] Browser ERROR   ./components/HomeOther/Hero/HeroWrapper.styles.ts:4:61
+Parsing ecmascript source code failed
+  2 |
+  3 | export const HeroBanner = styled(Box)`
+> 4 |   background-color: ${({ theme }) => theme.palette.grey?.500};
+    |                                                             ^
+  5 |   height: 350px;
+  6 | `;
+  7 |
+
+Expected ':', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Hero/HeroWrapper.styles.ts [Client Component Browser]
+    ./components/HomeOther/Hero/HeroSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Hero/HeroWrapper.styles.ts [Client Component SSR]
+    ./components/HomeOther/Hero/HeroSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[02:54:58.741] Server  LOG      ✓ Compiled in 3ms
+[03:11:11.998] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:11:43.031] Server  LOG      ✓ Compiled in 4ms
+[03:12:13.657] Server  LOG      ✓ Compiled in 4ms
+[03:12:19.493] Server  LOG      ✓ Compiled in 9ms
+[03:12:19.617] Browser ERROR   ./app/page.tsx:10:9
+Parsing ecmascript source code failed
+   8 |     <Wrapper>
+   9 |         <HeroSection />
+> 10 |       </Box>
+     |         ^^^
+  11 |       {/* <Container fixed>
+  12 |         
+  13 |         <CustomSelectNew placeholder='Select' className='selectBox' labelName='Select Role'>
+
+Expected corresponding JSX closing tag for <Wrapper>
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[03:12:21.016] Server  LOG      ✓ Compiled in 4ms
+[03:12:27.885] Server  LOG      ✓ Compiled in 3ms
+[03:12:44.989] Server  LOG      ✓ Compiled in 3ms
+[03:12:45.101] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true co co true co
+[03:12:47.562] Server  LOG      ✓ Compiled in 3ms
+[03:12:53.292] Server  LOG      ✓ Compiled in 3ms
+[03:17:05.744] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:17:06.234] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[03:17:15.823] Server  LOG      ✓ Compiled in 13ms
+[03:17:15.927] Browser ERROR   ./app/page.tsx:10:7
+Parsing ecmascript source code failed
+   8 |       <HeroSection />
+   9 |       <
+> 10 |       {/* <Container fixed>
+     |       ^
+  11 |         
+  12 |         <CustomSelectNew placeholder='Select' className='selectBox' labelName='Select Role'>
+  13 |           <CustomSelectNew.Option value='sales'>Sales Department</CustomSelectNew.Option>
+
+Expected '</', got '{'
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[03:17:18.600] Browser ERROR   {}
+[03:17:18.600] Browser ERROR   {}
+[03:17:20.539] Server  LOG      ✓ Compiled in 109ms
+[03:17:20.746] Browser WARN    Image with src "http://localhost:14323/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:17:35.792] Server  LOG      ✓ Compiled in 3ms
+[03:17:35.891] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:17:40.719] Server  LOG      ✓ Compiled in 3ms
+[03:17:52.248] Server  LOG      ✓ Compiled in 9ms
+[03:17:55.365] Server  LOG      ✓ Compiled in 4ms
+[03:18:05.025] Server  LOG      ✓ Compiled in 4ms
+[03:18:19.640] Server  LOG      ✓ Compiled in 4ms
+[03:18:23.014] Server  LOG      ✓ Compiled in 12ms
+[03:18:23.116] Browser ERROR   ./components/HomeOther/Publishers/PublisherSection.tsx:12:7
+Parsing ecmascript source code failed
+  10 |     <BoxPublishers {...props}>
+  11 |         <Container
+> 12 |       <Grid container spacing={1.5}>
+     |       ^
+  13 |         {publisherslist.map((pub, i) => (
+  14 |           <Grid size={{ lg: 2, xs: 12 }} key={i}>
+  15 |             <Paper elevation={0} className='pub-paper'>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[03:18:27.983] Server  LOG      ✓ Compiled in 12ms
+[03:18:28.084] Browser ERROR   ./components/HomeOther/Publishers/PublisherSection.tsx:26:1
+Parsing ecmascript source code failed
+  24 |     </BoxPublishers>
+  25 |   );
+> 26 | };
+     | ^
+  27 |
+  28 | export default PublisherSection;
+  29 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[03:18:31.400] Server  LOG      ✓ Compiled in 3ms
+[03:18:35.833] Server  LOG      ✓ Compiled in 3ms
+[03:18:47.239] Server  LOG      ✓ Compiled in 3ms
+[03:18:48.318] Server  LOG      ✓ Compiled in 3ms
+[03:18:53.695] Server  LOG      ✓ Compiled in 6ms
+[03:18:55.564] Server  LOG      ✓ Compiled in 3ms
+[03:19:04.197] Server  LOG      ✓ Compiled in 3ms
+[03:19:21.927] Server  LOG      ✓ Compiled in 3ms
+[03:19:24.164] Server  LOG      ✓ Compiled in 3ms
+[03:19:27.819] Server  LOG      ✓ Compiled in 3ms
+[03:19:29.412] Server  LOG      ✓ Compiled in 3ms
+[03:19:30.817] Server  LOG      ✓ Compiled in 6ms
+[03:19:30.918] Browser ERROR   ./components/HomeOther/Publishers/PublisherWrapper.styles.ts:11:27
+Parsing ecmascript source code failed
+   9 |       align-items: center;
+  10 |       justify-content: center;
+> 11 |       border: 1px solid ${()};
+     |                           ^^
+  12 |     }
+  13 |   }
+  14 | `;
+
+Parenthesized expression cannot be empty
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Publishers/PublisherWrapper.styles.ts [Client Component Browser]
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Publishers/PublisherWrapper.styles.ts [Client Component SSR]
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[03:19:41.796] Server  LOG      ✓ Compiled in 6ms
+[03:19:41.898] Browser ERROR   ./components/HomeOther/Publishers/PublisherWrapper.styles.ts:11:61
+Parsing ecmascript source code failed
+   9 |       align-items: center;
+  10 |       justify-content: center;
+> 11 |       border: 1px solid ${({ theme }) => theme.palette.grey.};
+     |                                                             ^
+  12 |     }
+  13 |   }
+  14 | `;
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Publishers/PublisherWrapper.styles.ts [Client Component Browser]
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Publishers/PublisherWrapper.styles.ts [Client Component SSR]
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[03:20:10.176] Server  LOG      ✓ Compiled in 3ms
+[03:20:24.693] Server  LOG      ✓ Compiled in 3ms
+[03:20:25.933] Server  LOG      ✓ Compiled in 3ms
+[03:20:29.038] Server  LOG      ✓ Compiled in 3ms
+[03:20:38.187] Server  LOG      ✓ Compiled in 139ms
+[03:20:39.742] Server  LOG      ✓ Compiled in 3ms
+[03:20:43.288] Server  LOG      ✓ Compiled in 5ms
+[03:20:45.364] Server  LOG      ✓ Compiled in 4ms
+[03:20:56.278] Server  LOG      ✓ Compiled in 3ms
+[03:21:26.890] Server  LOG      ✓ Compiled in 4ms
+[03:21:29.936] Server  LOG      ✓ Compiled in 3ms
+[03:21:33.760] Server  LOG      ✓ Compiled in 4ms
+[03:21:37.218] Server  LOG      ✓ Compiled in 3ms
+[03:21:38.796] Server  LOG      ✓ Compiled in 3ms
+[03:22:17.597] Server  LOG      ✓ Compiled in 36ms
+[03:22:19.501] Server  LOG      ✓ Compiled in 37ms
+[03:22:19.603] Browser ERROR   ./styles/global.scss
+Error evaluating Node.js code
+Error: Expected expression.
+   ╷
+18 │   padding: ;
+   │            ^
+   ╵
+  styles/global.scss 18:12  root stylesheet
+Caused by: Error: Expected expression.
+   ╷
+18 │   padding: ;
+   │            ^
+   ╵
+  styles/global.scss 18:12  root stylesheet
+    [at Object.wrapException (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:2337:47)]
+    [at SpanScanner.error$3$length$position (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:87469:15)]
+    [at SpanScanner.error$1 (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:87472:19)]
+    [at ScssParser0._stylesheet0$_singleExpression$0 (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:125919:17)]
+    [at ScssParser0._stylesheet0$_expression$4$bracketList$consumeNewlines$singleEquals$until (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:125589:40)]
+    [at ScssParser0._stylesheet0$_expression$0 (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:125821:19)]
+    [at ScssParser0._stylesheet0$_declarationOrBuffer$0 (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:124401:23)]
+    [at ScssParser0._stylesheet0$_declarationOrStyleRule$0 (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:124311:35)]
+    [at ScssParser0._stylesheet0$_statement$1$root (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:124227:162)]
+    [at ScssParser0._stylesheet0$_statement$0 (/Users/bivashkundu/Documents/choice/bookgravity/node_modules/sass/sass.dart.js:124230:19)]
+[03:22:33.504] Server  LOG      ✓ Compiled in 11ms
+[03:22:50.063] Server  LOG      ✓ Compiled in 4ms
+[03:22:51.769] Server  LOG      ✓ Compiled in 3ms
+[03:22:54.558] Server  LOG      ✓ Compiled in 3ms
+[03:22:56.240] Server  LOG      ✓ Compiled in 4ms
+[03:23:00.163] Server  LOG      ✓ Compiled in 4ms
+[03:23:00.617] Server  ERROR    ⨯ ReferenceError: theme is not defined
+[03:23:00.911] Server  ERROR    ⨯ ReferenceError: theme is not defined
+[03:23:01.221] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:23:02.548] Browser ERROR   {}
+[03:23:04.689] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/HomeOther/Publishers/PublisherWrapper.styles.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:23:04.812] Server  LOG      ✓ Compiled in 7ms
+[03:23:05.468] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:23:05.827] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[03:23:11.671] Server  LOG      ✓ Compiled in 5ms
+[03:23:12.001] Server  ERROR    ⨯ ReferenceError: theme is not defined
+[03:23:12.265] Server  ERROR    ⨯ ReferenceError: theme is not defined
+[03:23:12.662] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:23:13.394] Browser ERROR   {}
+[03:23:14.402] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/HomeOther/Publishers/PublisherWrapper.styles.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:23:14.530] Server  LOG      ✓ Compiled in 4ms
+[03:23:15.331] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:23:15.731] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[03:23:15.731] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <RedirectErrorBoundary router={{...}}>
+      <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+        <SegmentViewNode type="page" pagePath="page.tsx">
+          <SegmentTrieNode>
+          <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+            <Home params={Promise} searchParams={Promise}>
+              <Wrapper>
+                <Header>
+                <Box className="body_content" component="main">
+                  <Styled(div) as="main" ref={null} className="body_conte..." theme={{...}} sx={{}}>
+                    <Insertion>
+                    <main className="body_conte...">
+                      <HeroSection>
+                      <PublisherSection>
+                        <Styled(Component) className="cmn-gap">
+                          <Insertion>
+                          <Box className="cmn-gap mu...">
+                            <Styled(div) as="div" ref={null} className="cmn-gap mu..." theme={{...}} sx={{}}>
+                              <Insertion>
+                              <div
++                               className="cmn-gap MuiBox-root mui-1xi0491"
+-                               className="cmn-gap MuiBox-root mui-rrtb2b"
+                              >
+                ...
+        ...
+      ...
+
+[03:23:19.122] Server  LOG      ✓ Compiled in 8ms
+[03:23:19.225] Browser ERROR   ./components/HomeOther/Publishers/PublisherWrapper.styles.ts:27:57
+Parsing ecmascript source code failed
+  25 | 
+  26 |     p {
+> 27 |         color: ${({ theme }) => theme.palette.secondary.};
+     |                                                         ^
+  28 |     }
+  29 |   }
+  30 | `;
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./components/HomeOther/Publishers/PublisherWrapper.styles.ts [Client Component Browser]
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/HomeOther/Publishers/PublisherWrapper.styles.ts [Client Component SSR]
+    ./components/HomeOther/Publishers/PublisherSection.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[03:23:24.424] Server  LOG      ✓ Compiled in 10ms
+[03:23:26.767] Server  LOG      ✓ Compiled in 3ms
+[03:23:35.646] Server  LOG      ✓ Compiled in 3ms
+[03:23:41.360] Server  LOG      ✓ Compiled in 3ms
+[03:23:43.997] Server  LOG      ✓ Compiled in 4ms
+[03:23:48.929] Server  LOG      ✓ Compiled in 3ms
+[03:23:50.885] Server  LOG      ✓ Compiled in 3ms
+[03:23:58.377] Server  LOG      ✓ Compiled in 3ms
