@@ -1,5 +1,5 @@
 'use client';
-import { styled } from '@mui/material';
+import { Box, InputLabel, styled } from '@mui/material';
 import IconButton from '@mui/material/IconButton';
 import InputAdornment from '@mui/material/InputAdornment';
 import TextField, { StandardTextFieldProps } from '@mui/material/TextField';
@@ -7,7 +7,13 @@ import React, { forwardRef, useCallback, useState } from 'react';
 import PasswordNonVisibilityIcon from '../Icons/PasswordNonVisibilityIcon';
 import PasswordVisibilityIcon from '../Icons/PasswordVisibilityIcon';
 
-const InputWrap = styled(TextField)`
+const InputWrap = styled(Box)`
+  .MuiInputLabel-root {
+    font-size: 14px;
+    color: ${({ theme }) => theme.palette.customColors?.dark};
+    margin-bottom: 8px;
+    font-weight: 500;
+  }
   .MuiInputBase-root {
     background-color: ${({ theme }) => theme.palette.customColors?.bodyBg};
     border-radius: 12px;
@@ -19,15 +25,15 @@ const InputWrap = styled(TextField)`
       color: ${({ theme }) => theme.palette.customColors?.dark};
       padding: 0;
       &::placeholder {
-        color: ${({ theme }) => theme.palette.customColors?.light} !important;
+        color: ${({ theme }) => theme.palette.customColors?.dark} !important;
         opacity: 1;
-        -webkit-text-fill-color: ${({ theme }) => theme.palette.customColors?.light} !important;
+        -webkit-text-fill-color: ${({ theme }) => theme.palette.customColors?.dark} !important;
       }
 
       &::-ms-input-placeholder {
-        color: ${({ theme }) => theme.palette.customColors?.light} !important;
+        color: ${({ theme }) => theme.palette.customColors?.dark} !important;
         opacity: 1;
-        -webkit-text-fill-color: ${({ theme }) => theme.palette.customColors?.light} !important;
+        -webkit-text-fill-color: ${({ theme }) => theme.palette.customColors?.dark} !important;
       }
     }
 
@@ -52,10 +58,11 @@ type InputFieldCommonProps = StandardTextFieldProps & {
   isPassword?: boolean;
   startAdornment?: React.ReactNode;
   endAdornment?: React.ReactNode;
+  labelName?: string;
 };
 
 const InputFieldCommon = forwardRef<HTMLInputElement, InputFieldCommonProps>(
-  ({ isPassword = false, startAdornment, endAdornment, ...others }, ref) => {
+  ({ isPassword = false, startAdornment, endAdornment,labelName, ...others }, ref) => {
     const [showPassword, setShowPassword] = useState(false);
 
     const handleClickShowPassword = useCallback(() => {
@@ -67,7 +74,9 @@ const InputFieldCommon = forwardRef<HTMLInputElement, InputFieldCommonProps>(
     }, []);
 
     return (
-      <InputWrap
+      <InputWrap>
+      {labelName && (<InputLabel>{labelName}</InputLabel>)}
+      <TextField
         fullWidth
         variant={others.variant ?? 'outlined'}
         type={isPassword ? (showPassword ? 'text' : 'password') : others?.type}
@@ -94,6 +103,7 @@ const InputFieldCommon = forwardRef<HTMLInputElement, InputFieldCommonProps>(
         }}
         {...others}
       />
+      </InputWrap>
     );
   }
 );

@@ -139,15 +139,14 @@ export const MuiThemeOptions = (mode: PaletteMode): ThemeOptions => {
               fontWeight: '600',
               padding: '15px 26px',
               minWidth: 'auto',
-              borderRadius: 0,
+              borderRadius: '12px',
               textTransform: 'capitalize',
               ...(ownerState.variant === 'contained' &&
                 ownerState.color === 'primary' && {
                   background: palette(mode).primary.main,
                   color: palette(mode).common.white,
                   '&:hover': {
-                    background: palette(mode).customColors.dark,
-                    color: palette(mode).common.white,
+                    background: palette(mode).secondary.main,
                   },
                 }),
             };

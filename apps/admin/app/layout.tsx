@@ -8,8 +8,8 @@ import DashboardWrapper from '@/layout/DashboardWrapper/DashboardWrapper';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'CycleSmart Tech UI',
-  description: "Recycle your tech, we'll pay you cash.",
+  title: 'BookGravity Admin',
+  description: 'BookGravity Admin',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
