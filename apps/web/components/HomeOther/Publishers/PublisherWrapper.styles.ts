@@ -1,6 +1,8 @@
 import { Box, styled } from '@mui/material';
+import type { BoxProps, Theme } from '@mui/material';
+import type { StyledComponent } from '@emotion/styled';
 
-export const BoxPublishers = styled(Box)`
+export const BoxPublishers: StyledComponent<BoxProps & { theme?: Theme }> = styled(Box)`
   .pub-paper {
     text-align: center;
 
@@ -17,9 +19,9 @@ export const BoxPublishers = styled(Box)`
       overflow: hidden;
 
       img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
+        width: 100px;
+        height: 100px;
+        object-fit: contain;
       }
     }
 

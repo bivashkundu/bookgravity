@@ -1,5 +1,5 @@
 {
-  "name": "cyclesmart-tech-ui",
+  "name": "bookgravity",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -31,6 +31,8 @@
     "@mui/material-nextjs": "^7.3.2",
     "@mui/x-date-pickers": "^8.11.2",
     "@reduxjs/toolkit": "^2.9.0",
+    "@repo/mui-theme": "workspace:*",
+    "@repo/shared-ui": "workspace:*",
     "@tanstack/react-query": "^5.87.4",
     "@types/js-cookie": "^3.0.6",
     "axios": "^1.12.2",
@@ -54,6 +56,8 @@
   "devDependencies": {
     "@types/minimatch": "^5.1.2",
     "@types/node": "^22.8.1",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
     "@types/react-lottie": "^1.2.10",
     "@types/react-slick": "^0.23.13",
     "@wtsreact/eslint-config": "^1.2.0",
