@@ -51,6 +51,7 @@
     "react-redux": "^9.2.0",
     "redux-persist": "^6.0.0",
     "yup": "^1.7.0",
+    "zod": "^4.4.3",
     "zustand-x": "^6.1.2"
   },
   "devDependencies": {

@@ -4,10 +4,10 @@ import { Palette } from '@mui/material';
 export const palette = (mode: Palette['mode']): Palette => {
   // ** Vars
   const whiteColor = '#FFF';
-  const lightColor = '#2F2B3D'; // Hex equivalent of '47, 43, 61'
-  const darkColor = '#334F4D'; // Hex equivalent of '208, 212, 241'
+  const lightColor = '#999999'; // Hex equivalent of '47, 43, 61'
+  const darkColor = '#141413'; // Hex equivalent of '208, 212, 241'
   const darkPaperBgColor = '#2F3349';
-  const mainColor = mode === 'light' ? darkColor : darkColor;
+  const mainColor = mode === 'light' ? lightColor : darkColor;
   const defaultBgColor = whiteColor;
 
   // Convert RGBA to Hex with opacity
@@ -45,7 +45,7 @@ export const palette = (mode: Palette['mode']): Palette => {
     },
     secondary: {
       light: '#B2B4B8',
-      main: '#141413',
+      main: darkColor,
       dark: '#C0F060',
       contrastText: whiteColor,
     },
@@ -77,7 +77,7 @@ export const palette = (mode: Palette['mode']): Palette => {
       50: '#FAFAFA',
       100: '#F5F5F5',
       200: '#EEEEEE',
-      300: '#E0E0E0',
+      300: '#E5E5E5',
       400: '#BDBDBD',
       500: '#9E9E9E',
       600: '#757575',
@@ -91,7 +91,7 @@ export const palette = (mode: Palette['mode']): Palette => {
     },
     text: {
       primary: mainColor,
-      secondary: hexWithOpacity(mainColor, 0.68),
+      secondary: darkColor,
       disabled: hexWithOpacity(mainColor, 0.42),
     },
     divider: hexWithOpacity(mainColor, 0.16),

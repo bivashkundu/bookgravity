@@ -1,4 +1,4 @@
-import { ICustomIconProps } from '@/typescript/interface/icons.interface';
+import { ICustomIconProps } from './types';
 
 const MessageSendIcon = ({ IconColor }: ICustomIconProps) => {
   return (

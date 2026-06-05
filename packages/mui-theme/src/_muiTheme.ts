@@ -28,25 +28,28 @@ export const MuiThemeOptions = (mode: PaletteMode): ThemeOptions => {
       h1: {
         fontSize: '68px',
         lineHeight: '1.1em',
-        fontWeight: '400',
+        fontWeight: '700',
+        color: palette(mode).text.secondary,
 
         '@media(max-width:899px)': {
           fontSize: '22px',
         },
       },
       h2: {
-        fontSize: '35px',
+        fontSize: '32px',
         lineHeight: '1.1em',
-        fontWeight: '400',
+        fontWeight: '700',
+        color: palette(mode).text.secondary,
 
         '@media(max-width:899px)': {
           fontSize: '22px',
         },
       },
       h3: {
-        fontSize: '30px',
+        fontSize: '18px',
         lineHeight: '1.1em',
         fontWeight: '700',
+        color: palette(mode).text.secondary,
 
         '@media(max-width:899px)': {
           fontSize: '18px',
@@ -56,16 +59,19 @@ export const MuiThemeOptions = (mode: PaletteMode): ThemeOptions => {
         fontSize: '25px',
         lineHeight: '1.3',
         fontWeight: '700',
+        color: palette(mode).text.secondary,
       },
       h5: {
         fontSize: '22px',
         lineHeight: '1.4',
-        fontWeight: '600',
+        fontWeight: '700',
+        color: palette(mode).text.secondary,
       },
       h6: {
         fontSize: '18px',
         lineHeight: '1.5',
-        fontWeight: '600',
+        fontWeight: '700',
+        color: palette(mode).text.secondary,
       },
       body1: {
         fontSize: '16px',

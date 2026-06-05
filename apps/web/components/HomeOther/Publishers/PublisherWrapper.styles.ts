@@ -24,11 +24,5 @@ export const BoxPublishers: StyledComponent<BoxProps & { theme?: Theme }> = styl
         object-fit: contain;
       }
     }
-
-    p {
-      color: ${({ theme }) => theme.palette.secondary.main};
-      font-weight: 700;
-      font-size: 18px;
-    }
   }
 `;

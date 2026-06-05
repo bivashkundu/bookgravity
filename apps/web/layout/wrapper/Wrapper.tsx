@@ -1,6 +1,6 @@
 import Box from '@mui/material/Box';
 import React from 'react';
-import Footer from '../Footer/Footer';
+// import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 
 interface IwrapperProps {
@@ -18,7 +18,7 @@ const Wrapper = (props: IwrapperProps) => {
         {children}
       </Box>
 
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };

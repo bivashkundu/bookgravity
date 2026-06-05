@@ -1,4 +1,5 @@
 'use client';
+import DeliveryShippingSection from '@/components/HomeOther/DeliveryShipping/DeliveryShippingSection';
 import HeroSection from '@/components/HomeOther/Hero/HeroSection';
 import PublisherSection from '@/components/HomeOther/Publishers/PublisherSection';
 import Wrapper from '@/layout/wrapper/Wrapper';
@@ -7,6 +8,7 @@ export default function Home() {
   return (
     <Wrapper>
       <HeroSection />
+      <DeliveryShippingSection />
       <PublisherSection />
       {/* <Container fixed>
         
