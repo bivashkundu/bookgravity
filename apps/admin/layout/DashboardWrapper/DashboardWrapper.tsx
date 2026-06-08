@@ -4,7 +4,6 @@ import Box from '@mui/material/Box';
 import { styled } from '@mui/material';
 import Stack from '@mui/material/Stack';
 import React from 'react';
-import { usePathname } from 'next/navigation';
 import DashboardHeader from '../DashboardHeader/DashboardHeader';
 import DashboardSidebar from '../DashboardSidebar/DashboardSidebar';
 
@@ -13,13 +12,6 @@ interface IDashBoardProps {
 }
 
 const DashboardWrapper: React.FC<IDashBoardProps> = ({ children }) => {
-  const pathname = usePathname();
-  const isLoginPage = pathname === '/login' || pathname?.startsWith('/login/');
-
-  if (isLoginPage) {
-    return <>{children}</>;
-  }
-
   return (
     <DashboardWrapperStyled direction='row' flexWrap='wrap'>
       <DashboardSidebar />

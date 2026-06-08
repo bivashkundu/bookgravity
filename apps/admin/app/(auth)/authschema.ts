@@ -10,3 +10,19 @@ export const loginSchema = z.object({
 });
 
 export type TLoginSchemaType = z.infer<typeof loginSchema>;
+
+export const registerSchema = z
+  .object({
+    email: z.string().min(1, 'Email address is required').pipe(z.email('Invalid email address')),
+    password: z
+      .string()
+      .min(1, 'Password is required')
+      .min(6, 'Password must be at least 6 characters'),
+    confirmPassword: z.string().min(1, 'Confirm password is required'),
+  })
+  .refine(data => data.password === data.confirmPassword, {
+    message: "Passwords don't match",
+    path: ['confirmPassword'],
+  });
+
+export type TRegisterSchemaType = z.infer<typeof registerSchema>;

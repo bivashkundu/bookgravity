@@ -10,7 +10,8 @@ export const endpoints = {
   auth: {
     signup: 'user/existence',
     signUpProfile: 'user/signup',
-    login: 'user/login',
+    login: 'auth/login',
+    register: 'auth/register',
     profileDetails: 'user/profile/get',
     profileUpdate: 'user/profile/update',
   },

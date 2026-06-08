@@ -1,6 +1,9 @@
 import { Avatar, IconButton, Menu, MenuItem, Typography } from '@mui/material';
 import React from 'react';
 import { DashboardHeaderStyled } from './HeaderWrapper.styled';
+import Cookies from 'js-cookie';
+import { useRouter } from 'next/navigation';
+import toast from 'react-hot-toast';
 
 const DashboardHeader = () => {
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
@@ -10,6 +13,22 @@ const DashboardHeader = () => {
   };
   const handleClose = () => {
     setAnchorEl(null);
+  };
+
+  const router = useRouter();
+
+  const handleLogout = () => {
+    const tokenName = process.env.NEXT_APP_TOKEN_NAME || 'bookgravity_admin_token';
+
+    // Clear cookies
+    Cookies.remove(tokenName);
+
+    // Clear localStorage
+    localStorage.removeItem('token');
+
+    toast.success('Logged out successfully!');
+    router.push('/login/');
+    handleClose();
   };
 
   return (
@@ -62,7 +81,7 @@ const DashboardHeader = () => {
         transformOrigin={{ horizontal: 'right', vertical: 'top' }}
         anchorOrigin={{ horizontal: 'right', vertical: 'bottom' }}
       >
-        <MenuItem onClick={handleClose}>Logout</MenuItem>
+        <MenuItem onClick={handleLogout}>Logout</MenuItem>
       </Menu>
     </DashboardHeaderStyled>
   );

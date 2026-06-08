@@ -3,37 +3,36 @@
 import React from 'react';
 import Box from '@mui/material/Box';
 import AuthWrapper from '@/layout/AuthWrapper/AuthWrapper';
-import { Button, Checkbox, FormControlLabel, Grid, Stack, Typography } from '@mui/material';
+import { Button, Grid, Typography } from '@mui/material';
 import InputFieldCommon from '@/ui/CommonInput/CommonInput';
 import Link from 'next/link';
-import { useForm, Controller } from 'react-hook-form';
+import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
-import { loginSchema, TLoginSchemaType } from '../authschema';
+import { registerSchema, TRegisterSchemaType } from '../authschema';
 import useAuth from '@/hooks/useAuth';
 
-const LoginPage = () => {
-  const { loginSubmit, loading } = useAuth();
+const RegisterPage = () => {
+  const { registerSubmit, loading } = useAuth();
 
   const {
     register,
     handleSubmit,
-    control,
     formState: { errors },
-  } = useForm<TLoginSchemaType>({
-    resolver: zodResolver(loginSchema),
+  } = useForm<TRegisterSchemaType>({
+    resolver: zodResolver(registerSchema),
     defaultValues: {
       email: '',
       password: '',
-      rememberMe: true,
+      confirmPassword: '',
     },
   });
 
-  const onSubmit = async (data: TLoginSchemaType) => {
-    await loginSubmit(data);
+  const onSubmit = async (data: TRegisterSchemaType) => {
+    await registerSubmit(data);
   };
 
   return (
-    <AuthWrapper heading='Welcome Back' para='Login to your account'>
+    <AuthWrapper heading='Create Account' para='Register a new admin account'>
       <Box component='form' onSubmit={handleSubmit(onSubmit)} noValidate>
         <Grid container spacing={2}>
           <Grid size={12}>
@@ -59,49 +58,26 @@ const LoginPage = () => {
             />
           </Grid>
           <Grid size={12}>
-            <Stack
-              direction='row'
-              alignItems='center'
-              flexWrap='wrap'
-              justifyContent='space-between'
-              className='remember-stack'
-            >
-              <Controller
-                name='rememberMe'
-                control={control}
-                render={({ field: { value, onChange, ...field } }) => (
-                  <FormControlLabel
-                    control={
-                      <Checkbox
-                        checked={!!value}
-                        onChange={onChange}
-                        sx={{
-                          '&.Mui-checked': {
-                            color: '#c81317',
-                          },
-                        }}
-                        disableRipple
-                        {...field}
-                      />
-                    }
-                    label={'Remember Me'}
-                  />
-                )}
-              />
-              <Link href='#'>Forgot Password?</Link>
-            </Stack>
+            <InputFieldCommon
+              labelName='Confirm Password'
+              placeholder='Confirm Password'
+              isPassword
+              fullWidth
+              {...register('confirmPassword')}
+              error={!!errors.confirmPassword}
+              helperText={errors.confirmPassword?.message}
+            />
           </Grid>
-
           <Grid size={12}>
             <Button fullWidth variant='contained' type='submit' disableElevation disabled={loading}>
-              {loading ? 'SIGNING IN...' : 'SIGN IN'}
+              {loading ? 'REGISTERING...' : 'SIGN UP'}
             </Button>
           </Grid>
           <Grid size={12} sx={{ mt: 1, textAlign: 'center' }}>
             <Typography variant='body2' color='textSecondary'>
-              Don't have an account?{' '}
+              Already have an account?{' '}
               <Link
-                href='/register/'
+                href='/login/'
                 style={{ color: '#c81317', fontWeight: 600, textDecoration: 'none' }}
               >
                 Sign In
@@ -114,4 +90,4 @@ const LoginPage = () => {
   );
 };
 
-export default LoginPage;
+export default RegisterPage;

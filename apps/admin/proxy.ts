@@ -1,37 +1,32 @@
-// import { NextRequest, NextResponse } from 'next/server';
-
-// // If the incoming request has the "token" cookie
-// export function proxy(request: NextRequest) {
-//   const hasToken = request.cookies.get(process.env.NEXT_APP_TOKEN_NAME!)?.name;
-
-//   if (hasToken === undefined || hasToken === null) {
-//     request.nextUrl.pathname = '/login';
-
-//     return NextResponse.redirect(request.nextUrl);
-//   } else {
-//     return NextResponse.next();
-//   }
-// }
-
-// export const config = {
-//   matcher: ['/dashboard/:path*'],
-// };
-
 import { NextRequest, NextResponse } from 'next/server';
 
-// If the incoming request has the "token" cookie
 export function proxy(request: NextRequest) {
-  const hasToken = '';
+  const tokenName = process.env.NEXT_APP_TOKEN_NAME || 'bookgravity_admin_token';
+  const token = request.cookies.get(tokenName)?.value;
 
-  if (hasToken === undefined || hasToken === null) {
-    request.nextUrl.pathname = '/login';
+  const isAuthPage =
+    request.nextUrl.pathname === '/login/' ||
+    request.nextUrl.pathname === '/login' ||
+    request.nextUrl.pathname === '/register/' ||
+    request.nextUrl.pathname === '/register';
 
-    return NextResponse.redirect(request.nextUrl);
-  } else {
-    return NextResponse.next();
+  // Redirect to login if token is missing and trying to access a protected page
+  if (!token && !isAuthPage) {
+    const loginUrl = new URL('/login/', request.url);
+    return NextResponse.redirect(loginUrl);
   }
+
+  // Redirect to home if token is present and trying to access login/register page
+  if (token && isAuthPage) {
+    const homeUrl = new URL('/', request.url);
+    return NextResponse.redirect(homeUrl);
+  }
+
+  return NextResponse.next();
 }
 
 export const config = {
-  matcher: ['/dashboard/:path*'],
+  matcher: [
+    '/((?!api|_next/static|_next/image|assets|favicon.ico|manifest.json|robot.txt|vercel.svg|offline).*)',
+  ],
 };
