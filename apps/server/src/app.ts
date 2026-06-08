@@ -3,6 +3,7 @@ import cors from 'cors';
 import morgan from 'morgan';
 import routes from './routes/index.js';
 import { errorMiddleware } from './middlewares/error.middleware.js';
+import authRoutes from './routes/authRoutes.js';
 
 const app = express();
 
@@ -14,6 +15,7 @@ app.use(morgan('dev'));
 
 // Main API routes
 app.use('/api/v1', routes);
+app.use('/api/auth', authRoutes)
 
 // Base route response
 app.get('/', (req, res) => {

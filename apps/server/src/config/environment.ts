@@ -12,6 +12,11 @@ const environmentSchema = z.object({
   NODE_ENV: z
     .enum(['development', 'production', 'test'])
     .default('development'),
+  MONGODB_URI: z.string().refine(
+    (val) => val.startsWith('mongodb://') || val.startsWith('mongodb+srv://'),
+    { message: 'MONGODB_URI must start with mongodb:// or mongodb+srv://' }
+  ),
+  JWT_SECRET: z.string().min(1, 'JWT_SECRET is required'),
 });
 
 const envResult = environmentSchema.safeParse(process.env);
