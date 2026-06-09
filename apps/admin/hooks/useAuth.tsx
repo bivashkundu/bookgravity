@@ -6,6 +6,7 @@ import axios from 'axios';
 import axiosInstanse from '@/api/axiosInstance';
 import { endpoints } from '@/api/endpoints';
 import { TLoginSchemaType, TRegisterSchemaType } from '@/app/(auth)/authschema';
+import { authStore } from '@/zustand/auth.zustand';
 
 export const useAuth = () => {
   const router = useRouter();
@@ -27,7 +28,7 @@ export const useAuth = () => {
 
       // Save token in localStorage (for client storage)
       localStorage.setItem('token', token);
-
+      authStore.actions.setUserData({ email: response.data.email as string });
       toast.success('Login successful!');
       router.push('/');
     } catch (error: unknown) {

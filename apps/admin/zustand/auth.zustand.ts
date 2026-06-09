@@ -1,9 +1,9 @@
-import { UserData } from '@/typescript/interface/common.interface';
 import { createStore } from 'zustand-x';
 
+type TUserData = { email: string };
 interface AuthStore {
   isLoggedIn: boolean;
-  userData: UserData;
+  userData: TUserData | null;
 }
 
 const initialState: AuthStore = {
@@ -19,7 +19,7 @@ export const authStore = createStore<AuthStore>(initialState, {
   setIsLoggedIn: (isLoggedIn: boolean) => {
     api.set('isLoggedIn', isLoggedIn);
   },
-  setUserData: (userData: UserData) => {
+  setUserData: (userData: TUserData | null) => {
     api.set('userData', userData);
   },
   reset: () => {

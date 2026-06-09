@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(morgan('dev'));
 
 // Main API routes
-app.use('/api/v1', routes);
+app.use('/api/', routes);
 app.use('/api/auth', authRoutes)
 
 // Base route response

@@ -19,5 +19,9 @@ const nextConfig: NextConfig = {
     removeConsole: process.env.NODE_ENV === 'production',
   },
   productionBrowserSourceMaps: false,
+  env: {
+    NEXT_APP_BASE_URL: process.env.NEXT_APP_BASE_URL?.trim() || 'http://localhost:5000',
+    NEXT_APP_TOKEN_NAME: process.env.NEXT_APP_TOKEN_NAME || 'bookgravity_token',
+  },
 };
 export default nextConfig;

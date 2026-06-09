@@ -18,6 +18,13 @@ export const endpoints = {
     about: 'aboutpolicy/details',
     faq: 'faq/all',
   },
+  publisher: {
+    getall: 'publishers/',
+    getbyid: 'publishers/:id',
+    create: 'publishers/',
+    update: 'publishers/:id',
+    delete: 'publishers/:id',
+  },
 };
 
 export const sucessNotificationEndPoints = [
@@ -25,4 +32,9 @@ export const sucessNotificationEndPoints = [
   endpoints.auth.signUpProfile,
   endpoints.auth.login,
   endpoints.auth.profileUpdate,
+  endpoints.publisher.create,
+  endpoints.publisher.update,
+  endpoints.publisher.delete,
+  endpoints.publisher.getall,
+  endpoints.publisher.getbyid,
 ];

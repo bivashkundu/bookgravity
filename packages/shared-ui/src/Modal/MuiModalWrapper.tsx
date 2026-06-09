@@ -1,15 +1,12 @@
-import { borderRadius } from '@/mui-theme/themeConstant';
 import CloseIcon from '@mui/icons-material/Close';
-import Box from '@mui/material/Box';
 import Dialog from '@mui/material/Dialog';
 import DialogContent from '@mui/material/DialogContent';
 import IconButton from '@mui/material/IconButton';
 import Stack from '@mui/material/Stack';
-import { useTheme } from '@mui/material/styles';
 import Typography from '@mui/material/Typography';
-import useMediaQuery from '@mui/material/useMediaQuery';
+import { DialogWrapper } from './Dialog.styles';
 
-interface MuiModalWrapperProps {
+interface IMuiModalWrapperProps {
   open: boolean;
   onClose?: () => void;
   scroll?: 'paper' | 'body';
@@ -23,33 +20,23 @@ export default function MuiModalWrapper({
   scroll,
   children,
   title,
-}: MuiModalWrapperProps) {
-  const theme = useTheme();
-  const fullScreen = useMediaQuery(theme.breakpoints.down('md'));
+}: IMuiModalWrapperProps) {
 
   return (
-    <Dialog
-      fullScreen={fullScreen}
+    <DialogWrapper
       open={open}
       onClose={onClose}
       scroll={scroll}
       aria-labelledby='responsive-dialog-title'
-      PaperProps={{
-        style: {
-          borderRadius,
-        },
-      }}
+      slotProps={{ paper: { className: 'custom-dialog-paper' }}}
     >
-      <Box>
-        <Stack direction='row' justifyContent='space-between' alignItems='center' spacing={2}>
-          <Typography>{title}</Typography>
-          <IconButton onClick={onClose} autoFocus>
-            <CloseIcon />
-          </IconButton>
-        </Stack>
-      </Box>
-
+      <Stack direction='row' justifyContent='space-between' alignItems='center' className='dialog-head'>
+        <Typography variant='h6'>{title}</Typography>
+        <IconButton onClick={onClose} disableRipple>
+          <CloseIcon />
+        </IconButton>
+      </Stack>
       <DialogContent>{children}</DialogContent>
-    </Dialog>
+    </DialogWrapper>
   );
 }

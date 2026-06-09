@@ -4,6 +4,7 @@ import { DashboardHeaderStyled } from './HeaderWrapper.styled';
 import Cookies from 'js-cookie';
 import { useRouter } from 'next/navigation';
 import toast from 'react-hot-toast';
+import { authStore } from '@/zustand/auth.zustand';
 
 const DashboardHeader = () => {
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
@@ -16,6 +17,9 @@ const DashboardHeader = () => {
   };
 
   const router = useRouter();
+  const userData = authStore.useValue('userData');
+  const userEmail = userData?.email || '';
+  const firstLetter = userEmail ? userEmail.charAt(0).toUpperCase() : '';
 
   const handleLogout = () => {
     const tokenName = process.env.NEXT_APP_TOKEN_NAME || 'bookgravity_admin_token';
@@ -25,6 +29,9 @@ const DashboardHeader = () => {
 
     // Clear localStorage
     localStorage.removeItem('token');
+
+    // Reset store
+    authStore.actions.reset();
 
     toast.success('Logged out successfully!');
     router.push('/login/');
@@ -42,7 +49,7 @@ const DashboardHeader = () => {
         aria-haspopup='true'
         aria-expanded={open}
       >
-        <Avatar>B</Avatar>
+        <Avatar>{firstLetter || 'B'}</Avatar>
       </IconButton>
       <Menu
         anchorEl={anchorEl}

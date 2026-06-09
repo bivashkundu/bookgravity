@@ -1,5 +1,8 @@
-import React from 'react';
+'use client';
 
-export default function page() {
-  return <div>page</div>;
+import React from 'react';
+import PublishersPage from '@/components/Publishers/PublishersPage';
+
+export default function Publishers() {
+  return <PublishersPage />;
 }
