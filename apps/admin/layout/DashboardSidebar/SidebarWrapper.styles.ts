@@ -31,36 +31,63 @@ export const DashboardSidebarWrapper = styled(Box)`
     width: 100%;
     overflow-x: hidden;
 
-    li {
-      &:not(:last-child) {
-        margin-bottom: 8px;
-      }
-      a,
-      button {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        width: 100%;
-        justify-content: flex-start;
-        padding: 14px 16px;
-        color: ${({ theme }) => theme.palette.customColors?.placeText};
-        border-radius: 10px;
-        min-width: inherit;
-        text-transform: capitalize;
+    .sidebar-menulist {
+      display: block;
 
-        .MuiButton-startIcon {
-          margin-left: 0px;
-          margin-right: 12px;
-        }
-        &:hover {
-          background: ${({ theme }) => theme.palette.primary.main};
-          color: ${({ theme }) => theme.palette.common.white};
-        }
+      &:not(:last-child) {
+        margin-bottom: 2px;
       }
-      &.active {
+    }
+
+    .cmn-listbtn {
+      padding: 14px 12px;
+      color: ${({ theme }) => theme.palette.text.secondary};
+      border-radius: 10px;
+      min-width: inherit;
+      text-transform: capitalize;
+
+      .MuiButton-startIcon {
+        margin-left: 0px;
+        margin-right: 8px;
+      }
+
+      .MuiButton-endIcon {
+        margin-left: auto;
+        margin-right: 0px;
+      }
+
+      &.active,
+      &:hover {
+        background-color: ${({ theme }) => theme.palette.primary.main};
+        color: ${({ theme }) => theme.palette.common.white};
+      }
+    }
+
+    .submenu_list {
+      width: 100%;
+      padding-left: 40px;
+      padding-top: 16px;
+
+      li {
+        display: block;
+
+        &.active {
+          a {
+            color: ${({ theme }) => theme.palette.primary.main};
+          }
+        }
+
         a {
-          background: ${({ theme }) => theme.palette.primary.main};
-          color: ${({ theme }) => theme.palette.common.white};
+          color: ${({ theme }) => theme.palette.text.secondary};
+          display: block;
+
+          &:hover {
+            color: ${({ theme }) => theme.palette.primary.main};
+          }
+        }
+
+        &:not(:last-child) {
+          margin-bottom: 8px;
         }
       }
     }
