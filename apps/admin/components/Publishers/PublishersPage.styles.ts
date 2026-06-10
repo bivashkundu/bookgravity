@@ -1,18 +1,6 @@
 import { Box, styled } from '@mui/material';
 
 export const PublishersPageWrapper = styled(Box)`
-  .page-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 24px;
-
-    h2 {
-      font-size: 24px;
-      font-weight: 700;
-    }
-  }
-
   .publishers-table-wrapper {
     background: ${({ theme }) => theme.palette.common.white};
     border-radius: 12px;

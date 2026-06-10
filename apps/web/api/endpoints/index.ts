@@ -25,6 +25,9 @@ export const endpoints = {
     update: 'publishers/:id',
     delete: 'publishers/:id',
   },
+  sectionHeading: {
+    getByKey: 'section-headings/:sectionKey',
+  },
 };
 
 export const sucessNotificationEndPoints = [

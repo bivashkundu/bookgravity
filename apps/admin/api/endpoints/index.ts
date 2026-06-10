@@ -26,6 +26,11 @@ export const endpoints = {
     update: 'publishers/:id',
     delete: 'publishers/:id',
   },
+  sectionHeading: {
+    getall: 'section-headings/',
+    getByKey: 'section-headings/:sectionKey',
+    upsert: 'section-headings/',
+  },
 };
 
 export const sucessNotificationEndPoints = [
@@ -38,4 +43,5 @@ export const sucessNotificationEndPoints = [
   endpoints.publisher.delete,
   endpoints.publisher.getall,
   endpoints.publisher.getbyid,
+  endpoints.sectionHeading.upsert,
 ];

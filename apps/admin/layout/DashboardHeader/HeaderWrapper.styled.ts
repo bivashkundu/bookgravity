@@ -1,4 +1,4 @@
-import { Box, Stack, styled } from '@mui/material';
+import { Stack, styled } from '@mui/material';
 
 export const DashboardHeaderStyled = styled(Stack)`
   padding: 10px 24px;

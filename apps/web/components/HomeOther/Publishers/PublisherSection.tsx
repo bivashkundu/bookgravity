@@ -5,7 +5,8 @@ import Image from 'next/image';
 import { BoxProps } from '@mui/material';
 import SectionHeading from '@/components/SectionHeading';
 import { getAllPublishers } from '@/api/functions/publisher.api';
-import { useSuspenseQuery } from '@tanstack/react-query';
+import { getSectionHeading } from '@/api/functions/sectionHeading.api';
+import { useQuery, useSuspenseQuery } from '@tanstack/react-query';
 
 const PublisherSection: React.FC<BoxProps> = props => {
   const {
@@ -17,27 +18,43 @@ const PublisherSection: React.FC<BoxProps> = props => {
     queryFn: getAllPublishers,
   });
 
+  const { data: headingData } = useQuery({
+    queryKey: ['sectionHeading', 'publishers'],
+    queryFn: () => getSectionHeading('publishers'),
+    retry: false,
+  });
+
   return (
     <BoxPublishers {...props} className='cmn-gap'>
       <Container fixed>
-        <SectionHeading mainHeading='Publishers' subHeading='Browse books from top publishers' />
+        {headingData && (
+          <SectionHeading
+            mainHeading={headingData.mainHeading}
+            subHeading={headingData.subHeading}
+          />
+        )}
         {isLoading ? (
           <Typography>Loading...</Typography>
         ) : error ? (
           <Typography>{error.message}</Typography>
+        ) : !publishers || publishers.length === 0 ? (
+          <Typography variant='body1' align='center' sx={{ color: 'text.secondary', py: 4 }}>
+            No Data
+          </Typography>
         ) : (
           <Grid container spacing={1.5}>
-            {publishers?.length > 0 &&
-              publishers?.map((pub, i) => (
-                <Grid size={{ lg: 2, xs: 12 }} key={i}>
-                  <Paper elevation={0} className='pub-paper'>
-                    <Box className='pub-fig'>
+            {publishers.map((pub, i) => (
+              <Grid size={{ lg: 2, xs: 12 }} key={i}>
+                <Paper elevation={0} className='pub-paper'>
+                  <Box className='pub-fig'>
+                    {pub.image && (
                       <Image src={pub.image} alt='Publisher' width={150} height={150} />
-                    </Box>
-                    <Typography variant='h3'>{pub.name}</Typography>
-                  </Paper>
-                </Grid>
-              ))}
+                    )}
+                  </Box>
+                  <Typography variant='h3'>{pub.name}</Typography>
+                </Paper>
+              </Grid>
+            ))}
           </Grid>
         )}
       </Container>

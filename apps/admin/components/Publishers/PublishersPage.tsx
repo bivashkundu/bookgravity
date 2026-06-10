@@ -15,6 +15,7 @@ import { useMutation, useQueryClient, useSuspenseQuery } from '@tanstack/react-q
 import { getAllPublishers, deletePublisher } from '@/api/functions/publishers.api';
 import toast from 'react-hot-toast';
 import axios from 'axios';
+import CommonSectionHeading from '../CommonSectionHeading/CommonSectionHeading';
 
 const PublishersPage = () => {
   const [isDialogOpen, setIsDialogOpen] = React.useState(false);
@@ -73,12 +74,7 @@ const PublishersPage = () => {
 
   return (
     <PublishersPageWrapper>
-      <Box className='page-header'>
-        <Typography variant='h2'>Publishers</Typography>
-        <Button variant='contained' startIcon={<AddIcon />} onClick={handleOpenAdd}>
-          Add Publisher
-        </Button>
-      </Box>
+      <CommonSectionHeading sectionKey='publishers' />
 
       {publishers.length === 0 ? (
         <Box className='publishers-table-wrapper'>
@@ -127,6 +123,12 @@ const PublishersPage = () => {
           ))}
         </CommonTable>
       )}
+
+      <Box sx={{ mt: 2, textAlign: 'center' }}>
+        <Button variant='contained' startIcon={<AddIcon />} onClick={handleOpenAdd}>
+          Add Publisher
+        </Button>
+      </Box>
 
       <PublisherFormDialog
         open={isDialogOpen}

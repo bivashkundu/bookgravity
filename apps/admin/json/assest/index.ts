@@ -5,4 +5,5 @@ export default {
   rotatePhone: '/assets/images/rotatePhone.gif',
   logomain: '/assets/images/logo.png',
   login_bg: '/assets/images/login_bg.png',
+  Deepprakashan: '/assets/images/Deepprakashan.webp',
 };
