@@ -7,7 +7,7 @@ import assest from '@/json/assest';
 const HeroSection = ({ ...props }: BoxProps) => {
   return (
     <HeroBanner component='section' {...props}>
-      <Image src={assest.banhome} alt='mainbanner' width={1920} height={600} />
+      <Image src={assest.banner2} alt='mainbanner' width={1920} height={600} />
     </HeroBanner>
   );
 };

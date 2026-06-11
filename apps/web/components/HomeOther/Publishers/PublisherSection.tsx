@@ -6,14 +6,14 @@ import { BoxProps } from '@mui/material';
 import SectionHeading from '@/components/SectionHeading';
 import { getAllPublishers } from '@/api/functions/publisher.api';
 import { getSectionHeading } from '@/api/functions/sectionHeading.api';
-import { useQuery, useSuspenseQuery } from '@tanstack/react-query';
+import { useQuery } from '@tanstack/react-query';
 
 const PublisherSection: React.FC<BoxProps> = props => {
   const {
     data: publishers,
     isLoading,
     error,
-  } = useSuspenseQuery({
+  } = useQuery({
     queryKey: ['publishers'],
     queryFn: getAllPublishers,
   });
